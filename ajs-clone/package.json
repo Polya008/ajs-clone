@@ -1,0 +1,17 @@
+{
+  "name": "ajs-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@polya008/ajs": "^1.1.0"
+  },
+  "scripts": {
+   "start": "node src/index.js"
+  }
+}
